@@ -12,4 +12,5 @@ header ul li{
 }
 .bg-sec{
     background-color: rgb(47, 4, 78);
+    @apply text-white
 }
