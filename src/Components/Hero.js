@@ -1,7 +1,7 @@
 import HeroImage from '../Assets/hero.png'
 import { AiOutlineLinkedin,AiOutlineInstagram } from "react-icons/ai";
 export default function Hero(){
- return <section className='flex py-3 py-32 bg-sec justify-center'>
+ return <section className='flex px-3 py-12 bg-sec justify-center'>
    <div className='w-1/2 flex flex-col'>
    <h1 className=' text-white text-4xl'>Hi,<br/>I am <span className='font-bold text-yellow-400'>VISWA</span>
  <p className='text-3xl'>Im a Full-Stack Developer</p>

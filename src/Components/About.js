@@ -1,6 +1,6 @@
 import AboutImg from '../Assets/about.png'
 export default function About(){
-    return<section className='flex bg-sec '>
+    return<section className='flex px-3 bg-sec py-12 '>
         <div className='w-1/2'>
             <img src={AboutImg}/>
         </div>

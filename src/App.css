@@ -14,3 +14,6 @@ header ul li{
     background-color: rgb(47, 4, 78);
     @apply text-white
 }
+.project-de{
+    @apply absolute left-0 right-0 bottom-0 top-0 bg-black opacity-0 duration-300 hover:opacity-100
+}
