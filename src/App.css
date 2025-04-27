@@ -10,3 +10,6 @@ header ul li{
 .mobile-nav li{
     @apply text-center w-full border-b-2
 }
+.bg-sec{
+    background-color: rgb(47, 4, 78);
+}
